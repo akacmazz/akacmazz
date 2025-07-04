@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet Kaçmaz</h1>
 <h3 align="center">A engineer from Turkey</h3>
-Hi there! I'm Ahmet Kaçmaz — an Electronics and Communications Engineering graduate student at Istanbul Technical University and currently working as an IT Engineer at Ericsson. My interests lie at the intersection of telecommunications, machine learning, AI, and signal processing. I enjoy building and analyzing intelligent systems that solve real-world problems. I'm passionate about blending engineering rigor with creative thinking — and always eager to learn, experiment, and share.
+Hi there! I'm Ahmet Kaçmaz — an Electronics and Communications Engineering master student at Istanbul Technical University and currently working as an IT Engineer at Ericsson. My interests lie at the intersection of telecommunications, machine learning, AI, and signal processing. I enjoy building and analyzing intelligent systems that solve real-world problems. I'm passionate about blending engineering rigor with creative thinking — and always eager to learn, experiment, and share.
 
 - 📫 How to reach me **ahmetkacmaz35@gmail.com**
 
